@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995070527656",
+    "project_id": "sign-1fd14",
+    "storage_bucket": "sign-1fd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995070527656:android:1b7225df8454e3ba319a9d",
+        "android_client_info": {
+          "package_name": "com.example.mewalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995070527656-67biondq4t0ftfps4c2qts6g8fnpsltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYX1GH3OEPCXCfQlfQG_UHTSMp88u0DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995070527656-67biondq4t0ftfps4c2qts6g8fnpsltp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
